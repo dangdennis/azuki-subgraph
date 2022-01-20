@@ -1,4 +1,4 @@
-type Azukis @entity {
+type ExampleEntity @entity {
   id: ID!
   count: BigInt!
   owner: Bytes! # address
